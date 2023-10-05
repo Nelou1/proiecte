@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+    background: rgb(28,254,56);
+    background: linear-gradient(90deg, rgba(28,254,56,1) 0%, rgba(179,231,173,1) 45%, rgba(224,255,84,1) 100%);
+    text-align: center;
+    height: auto;
+    padding: 0.002%;
+    font-family: 'Oswald', sans-serif;   
+}
+
+.navbar {
+    background-color: white;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+
+    display: flex;
+    gap: 125px;
+}
+
+
+.logo { 
+    width: 250px;
+    height: 100px;
+    overflow: hidden;
+}
